@@ -156,7 +156,7 @@ project/
 ## **Author**
 Created by: Junaida Showkat 
 
-Contact : junaidahShowkat@gmail.com
+Contact : junaidahshowkat@gmail.com
 
 ---
 ## **Contributing**
