@@ -153,7 +153,9 @@ project/
   3. Incorrect old password
 
 ---
-
+## **Author**
+Created by: Junaida Showkat
+Contact: junaidahShowkat@gmail.com
+---
 ## **Contributing**
-
 Feel free to fork the repository, create issues, and submit pull requests. Contributions are welcome!
