@@ -1,0 +1,23 @@
+
+## Requirements
+
+Python Version: 3.10 or higher  
+  Download: https://www.python.org/downloads/
+
+VS Code  
+  Download: https://code.visualstudio.com/download  
+  Extension: Python (`ms-python.python`)
+
+## Install Dependencies
+
+pip install python
+pip install selenium
+pip install pytest or  pip install pytest selenium 
+pip install pytest-order
+
+OPTIONAL
+pip install selenium-wire
+
+CHECK
+python --version
+python -m pytest --version 
